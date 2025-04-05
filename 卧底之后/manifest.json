@@ -1,0 +1,11 @@
+{
+    "display_name": "方述今天活着吗",
+    "loading_order": 9,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "镜",
+    "version": "0.0.1",
+    "homePage": "https://github.com/Jingshiro/My-Card/tree/main/卧底之后"
+}
